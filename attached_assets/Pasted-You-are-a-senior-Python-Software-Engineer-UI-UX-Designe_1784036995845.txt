@@ -1,0 +1,407 @@
+You are a senior Python Software Engineer, UI/UX Designer, AI Engineer, and Product Designer.
+
+Your task is to build my dream project called "LUNAR".
+
+IMPORTANT:
+This is NOT a simple beginner project.
+It should feel like a premium AI-powered productivity platform with a magical fantasy aesthetic inspired by enchanted libraries, celestial worlds, and modern minimal design.
+
+The project MUST be written ENTIRELY in Python.
+
+DO NOT use:
+- React
+- JavaScript
+- TypeScript
+- Node.js
+- npm
+- pnpm
+- Next.js
+- Vite
+
+The project must run perfectly inside Visual Studio Code on Windows.
+
+Technology Stack
+---------------
+Python 3.12+
+Streamlit
+SQLite
+Pandas
+Plotly
+OpenAI API (placeholder only)
+Pillow
+streamlit-option-menu
+streamlit-lottie
+streamlit-extras
+
+Project Structure
+-----------------
+Generate the COMPLETE project.
+
+Show the folder structure first.
+
+Example:
+
+LUNAR/
+│
+├── app.py
+├── requirements.txt
+├── README.md
+├── database.py
+├── config.py
+│
+├── assets/
+│   ├── images/
+│   ├── icons/
+│   ├── music/
+│   └── animations/
+│
+├── pages/
+│   ├── Login.py
+│   ├── Dashboard.py
+│   ├── AI_Assistant.py
+│   ├── Infinite_Library.py
+│   ├── Study_Planner.py
+│   ├── Notes.py
+│   ├── Journal.py
+│   ├── Habit_Tracker.py
+│   ├── Quest_System.py
+│   ├── Achievements.py
+│   ├── Analytics.py
+│   ├── Profile.py
+│   └── Settings.py
+│
+├── database/
+│
+├── utils/
+│
+└── styles/
+
+Create every required file.
+
+Never leave placeholders saying
+"implement later."
+
+Every file should contain complete working code.
+
+Theme
+-----
+The entire application should feel magical.
+
+Dark fantasy aesthetic.
+
+Glowing effects.
+
+Animated stars.
+
+Moonlight colors.
+
+Purple
+
+Blue
+
+Silver
+
+Gold accents
+
+Floating particles
+
+Glassmorphism
+
+Modern cards
+
+Rounded UI
+
+Beautiful typography
+
+Smooth animations.
+
+Features
+---------
+
+Landing Page
+
+Animated welcome screen.
+
+Moon animation.
+
+Glowing buttons.
+
+Parallax effect.
+
+Magic entrance animation.
+
+Authentication
+
+Simple local login.
+
+Signup.
+
+Remember user.
+
+SQLite storage.
+
+Dashboard
+
+Beautiful overview.
+
+XP level.
+
+Daily streak.
+
+Today's quests.
+
+Study progress.
+
+Mood.
+
+Calendar.
+
+AI Assistant
+
+Modern chat interface.
+
+Placeholder OpenAI integration.
+
+Chat history.
+
+Markdown support.
+
+Code blocks.
+
+Copy response button.
+
+Infinite Library
+
+Store books.
+
+Notes.
+
+Articles.
+
+Search.
+
+Categories.
+
+Bookmarks.
+
+Study Planner
+
+Tasks.
+
+Subjects.
+
+Deadlines.
+
+Calendar.
+
+Priority.
+
+Pomodoro timer.
+
+Notes
+
+Rich text notes.
+
+Folders.
+
+Search.
+
+Pin notes.
+
+Journal
+
+Daily journal.
+
+Mood tracker.
+
+Reflection.
+
+Writing streak.
+
+Habit Tracker
+
+Track habits.
+
+Graphs.
+
+Progress.
+
+Quest System
+
+Gamification.
+
+Daily quests.
+
+Weekly quests.
+
+XP rewards.
+
+Level up.
+
+Achievements
+
+Unlock badges.
+
+Milestones.
+
+Analytics
+
+Charts using Plotly.
+
+Study hours.
+
+Habit completion.
+
+XP gained.
+
+Daily activity.
+
+Profile
+
+Avatar.
+
+Bio.
+
+Statistics.
+
+Achievements.
+
+Settings
+
+Dark mode.
+
+Music toggle.
+
+Notifications.
+
+Accent color.
+
+Sidebar
+-------
+
+Beautiful animated sidebar.
+
+Icons.
+
+Hover animations.
+
+Smooth transitions.
+
+Music
+-----
+
+Background fantasy music toggle.
+
+Particles
+---------
+
+Animated star background.
+
+Glowing particles.
+
+Floating sparkles.
+
+Database
+--------
+
+SQLite.
+
+Automatically create tables.
+
+No manual setup required.
+
+Programming Rules
+-----------------
+
+Write clean modular Python.
+
+Use OOP where appropriate.
+
+Add comments.
+
+Use functions.
+
+No duplicated code.
+
+Requirements
+------------
+
+Generate requirements.txt
+
+Generate README.md
+
+README must include:
+
+Installation
+
+Commands
+
+Project structure
+
+Screenshots section
+
+Features
+
+Future improvements
+
+Running
+-------
+
+The application MUST run using ONLY:
+
+pip install -r requirements.txt
+
+streamlit run app.py
+
+No JavaScript.
+
+No Node.
+
+No React.
+
+No npm.
+
+No pnpm.
+
+No TypeScript.
+
+Visual Studio Code Compatibility
+--------------------------------
+
+The project MUST run perfectly inside Visual Studio Code on Windows.
+
+Avoid version conflicts.
+
+Avoid deprecated packages.
+
+Error Handling
+--------------
+
+Handle errors gracefully.
+
+Do not crash.
+
+Show friendly messages.
+
+Response Rules
+--------------
+
+Because the project is large:
+
+Generate ONE FILE AT A TIME.
+
+After completing a file, automatically continue with the next one.
+
+Never summarize.
+
+Never skip code.
+
+Never replace code with comments like:
+
+"...remaining code..."
+
+Always provide the COMPLETE contents of each file.
+
+Continue until the ENTIRE project is finished.
+
+The finished project should feel like a premium desktop-quality AI productivity platform that is unique enough to become the centerpiece of my portfolio and impress recruiters for AI, Data Science, Python, and Software Development internships.

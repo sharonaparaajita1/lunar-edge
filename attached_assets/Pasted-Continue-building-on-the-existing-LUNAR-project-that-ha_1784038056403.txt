@@ -1,0 +1,270 @@
+Continue building on the existing LUNAR project that has already been generated.
+
+Do NOT recreate or replace any existing files, layouts, or features. Instead, extend the current project by adding the following new features while keeping the same UI style, theme, animations, and project architecture.
+
+========================
+STUDENT EXPERIENCE EXPANSION
+========================
+
+Transform LUNAR into a complete student ecosystem that combines productivity, learning, social interaction, creativity, and fun.
+
+Add these features:
+
+• Student Hub with personalized study dashboard
+• Assignment planner
+• Attendance tracker
+• Semester planner
+• Exam countdown timer
+• Study streak tracker
+• Daily, weekly, and monthly study goals
+• Study guides for time management, exam preparation, note-taking, memory techniques, coding practice, internships, placements, and career planning
+• Flashcards
+• Revision planner
+• Pomodoro timer
+• GPA/CGPA calculator
+• Resource organizer for notes and PDFs
+
+========================
+GAMIFICATION EXPANSION
+========================
+
+Expand the existing XP system.
+
+Users should earn:
+- XP
+- Coins
+- Gems
+- Badges
+- Achievement medals
+- Trophy collections
+- Daily rewards
+- Weekly rewards
+- Monthly rewards
+- Surprise mystery rewards
+- Lucky spin rewards
+
+Create many badge categories.
+
+Examples:
+- Study Master
+- Coding Wizard
+- AI Explorer
+- Reading Champion
+- Consistency Hero
+- Productivity Pro
+- Quiz Champion
+- Assignment Expert
+- Creative Thinker
+- Community Helper
+
+Create a Trophy Room where every achievement is displayed beautifully.
+
+========================
+FUN TASKS
+========================
+
+Add optional fun daily tasks such as:
+
+- Read for 20 minutes
+- Learn one new word
+- Solve one coding problem
+- Practice typing
+- Complete one quiz
+- Drink enough water
+- Walk for 15 minutes
+- Stretch
+- Practice gratitude
+- Help a friend
+- Learn one AI tool
+- Solve a puzzle
+
+Completing these should reward XP, coins, gems, and badges.
+
+========================
+SOCIAL SPACE
+========================
+
+Create a complete social section.
+
+Users should be able to:
+
+• Add friends
+• Send friend requests
+• Accept or reject requests
+• Create private friend circles
+• Create study groups
+• Join communities
+• Public community feed
+• Private feed
+• Friends-only feed
+• Group chats
+• Direct messages
+• Share achievements
+• Like posts
+• Comment
+• React with emojis
+• Share images
+• Share videos
+
+Create a fun "Campus Gossip" space.
+
+Users should be able to choose:
+
+- Public gossip
+- Friends-only gossip
+- Anonymous gossip
+- Private notes
+
+Allow users to moderate their own posts with privacy controls.
+
+========================
+CAMERA & MEDIA
+========================
+
+Add media features.
+
+Allow users to:
+
+• Upload profile pictures
+• Upload photos
+• Upload videos
+• Capture photos using camera
+• Record short videos
+• Scan handwritten notes
+• Scan documents into PDF
+• Save media inside their profile
+
+Add fun image filters:
+
+- Moonlight
+- Fantasy Glow
+- Vintage
+- Anime Style
+- Watercolor
+- Pixel Art
+- Sketch
+- Neon
+- Dream Effect
+- Soft Pastel
+
+Allow:
+
+- Frames
+- Stickers
+- Emojis
+- Text overlays
+
+========================
+CUSTOMIZATION
+========================
+
+Allow users to customize almost everything.
+
+Examples:
+
+• Theme selector
+• Light mode
+• Dark mode
+• Galaxy mode
+• Ocean mode
+• Forest mode
+• Sakura mode
+• Magical mode
+• Animated wallpapers
+• Animated profile backgrounds
+• Dashboard widgets
+• Sidebar layout
+• Accent colors
+• Fonts
+• App icons
+• Notification sounds
+• Ambient sounds
+• Background music
+
+Allow users to unlock themes using XP or achievements.
+
+========================
+MINI GAMES
+========================
+
+Add relaxing games.
+
+Examples:
+
+- Sudoku
+- Crossword
+- Word Search
+- Memory Match
+- Typing Challenge
+- Trivia
+- Quiz Battle
+- Logic Puzzle
+- Brain Teasers
+
+Winning games should reward XP, coins, and badges.
+
+========================
+WELLNESS
+========================
+
+Add wellness tools.
+
+• Mood tracker
+• Daily affirmations
+• Meditation timer
+• Breathing exercises
+• Water reminder
+• Sleep tracker
+• Stretch reminder
+
+========================
+CAREER
+========================
+
+Expand career features.
+
+Include:
+
+• Resume tracker
+• Internship tracker
+• Certificate tracker
+• Project tracker
+• GitHub tracker
+• LinkedIn tracker
+• Skill tracker
+• Career roadmap
+• Placement preparation
+• Interview practice
+
+========================
+ANALYTICS
+========================
+
+Expand dashboards.
+
+Show:
+
+• Study hours
+• Weekly progress
+• Monthly progress
+• Subject performance
+• Habit completion
+• XP earned
+• Badge collection
+• Quiz scores
+• Focus time
+• Assignment completion
+
+========================
+GENERAL REQUIREMENTS
+========================
+
+Do NOT remove any existing functionality.
+
+Everything added should integrate seamlessly with the current project.
+
+Maintain the same magical premium design language.
+
+Use reusable components where possible.
+
+Ensure all new features are responsive, polished, visually engaging, and compatible with the existing codebase.
